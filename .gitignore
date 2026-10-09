@@ -1,0 +1,60 @@
+# =========================================================
+# Python & Environment
+# =========================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+ENV/
+
+# =========================================================
+# IDE & Operating System
+# =========================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# =========================================================
+# Runtime Databases (auto-generated & seeded on app start)
+# =========================================================
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# =========================================================
+# Media & Large Binary Files
+# =========================================================
+*.mp4
+demo_screencast_frames/
+video_frames/
+
+# =========================================================
+# Scratch & Temporary Files
+# =========================================================
+grab_result.txt
+test_grab.png
+cursor.png
+
+# =========================================================
+# Internal Generator Scripts & Guides (retained locally)
+# =========================================================
+build_video_presentation.py
+generate_app_screencast_demo.py
+merge_voiceover.py
+VOICEOVER_SCRIPT.md
+generate_proposal_docx.py
+export_pdf.py
+generate_visual_assets.py
+generate_process_diagrams.py
+upgrade_markdown.py
+FINAL_PROJECT_DOCUMENT.md
+DEMO_GUIDE.md
